@@ -24,7 +24,7 @@
 ### 安装步骤
 1. 克隆仓库：
    ```bash
-   git clone https://github.com/yourusername/mooncat-translation.git
+   git clone https://github.com/254266394/mooncat-translation.git
    cd mooncat-translation
    ```
 2. 使用方法：
