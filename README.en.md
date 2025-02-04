@@ -22,7 +22,7 @@ MoonCat Translate is a Chinese-English translation tool supporting caching,dicti
 ### Steps
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/mooncat-translation.git
+   git clone https://github.com/254266394/mooncat-translation.git
    cd mooncat-translation
    ```
 2. Usage:
